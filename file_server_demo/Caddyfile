@@ -1,3 +1,6 @@
+# 1. http
+# 2. localhost
+# 3. 默认80，这里指定为2021
 http://localhost:2021 {
 	root ./static/
 	file_server

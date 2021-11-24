@@ -1,0 +1,5 @@
+http://:2021 {
+	reverse_proxy /1/* 127.0.0.1:9001
+	reverse_proxy /2/* 127.0.0.1:9002
+	reverse_proxy /3/* 127.0.0.1:9003
+}
