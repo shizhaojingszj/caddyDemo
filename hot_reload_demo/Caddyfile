@@ -1,4 +1,4 @@
 # 这个Caddyfile只是进行了一个字符串的反馈
 http://localhost:2021 {
-	respond "ABC"	
+	respond "BCD"	
 }
