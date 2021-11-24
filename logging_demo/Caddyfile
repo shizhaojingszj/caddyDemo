@@ -1,0 +1,8 @@
+http://localhost:2021 {
+	root ./static/
+	file_server
+
+	log {
+		output file ./log/demo.log
+	}
+}
